@@ -131,3 +131,4 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 
 - [ ] Incluir explicación de métricas
 
+# tesis_mia
