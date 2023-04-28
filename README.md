@@ -112,10 +112,13 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 
     Está OK con 100 y uso de test t
 6. <s>Hay solo 93 fotos de vehículos sin daño, lo que nos deja con un dataset desbalanceado ¿Cuáles serían estrategias más razonables para llegar a 400?</s>
-7. *Es sensato realizar tratamiento previo de imágenes para mejorar el resultado?* No se recomienda, por tiempo disponible
+7. *Es sensato realizar tratamiento previo de imágenes para mejorar el resultado?* 
+
+No se recomienda, por tiempo disponible
 8. *Hace sentido para la Tesis utilizar transfer learning para capas iniciales?*
 
     Puede ser, más razonable modelo "tradicional" como línea base. Es más recomendable ajustarse a tiempo disponible y no llenarse de hipótesis.
+    
 9. *Deberíamos incluir en la Tesis el caso de las casas como punto de partida de nuestro estudio?*
 
     Sí, mencionarlo explícitamente
@@ -127,8 +130,7 @@ y LUEGO los detalles correspondientes. De lo contrario, no se entiende el docume
 
 - [X] Revisar parámetros en importancia relativa
 
-- [ ] Desarrollar tema de workflow
+- [X] Desarrollar tema de workflow
 
-- [ ] Incluir explicación de métricas
+- [X] Incluir explicación de métricas
 
-# tesis_mia
