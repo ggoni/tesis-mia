@@ -1,4 +1,4 @@
-### Documento TESIS: 
+### Documento Tesis Magister en Inteligencia Artificial, Universidad Adolfo ibañez: 
 
 Mantener actualizado [acá](https://alumnosuaicl-my.sharepoint.com/:w:/r/personal/ggoni_alumnos_uai_cl/_layouts/15/doc2.aspx?sourcedoc=%7B3EB12E04-6A5E-4680-B63F-8B77F0FF0628%7D&file=Template%20Tesis%20MIA%20UAI%20-%20v2.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1638016116577&wdOrigin=OFFICECOM-WEB.MAIN.OTHER&cid=3c25bc43-160a-4968-a13b-e21ed8c13e57)
 
